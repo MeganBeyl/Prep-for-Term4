@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Bebas+Neue&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+
+/* Base Classes --------------------------------------------------------*/
+h1, h2, h3, h4, h5 {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+p {
+    font-family: 'Abel', sans-serif;
+}
+
+
+/* --------------------------------------------------- */
+/* Bootstrap Components */
+
+/* Navigation */
+
+.nav-link{
+    color: white;
+}
+
+.active{
+    color: #E94556;
+}
+
+.card-img{
+    width: 30%;
+    height: 10vh;
+    float: right;
+    margin-bottom: 10px;
+}
